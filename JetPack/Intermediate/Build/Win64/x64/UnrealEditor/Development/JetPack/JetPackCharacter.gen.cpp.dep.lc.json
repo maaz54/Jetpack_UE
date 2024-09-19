@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\unrealeditor\\inc\\jetpack\\uht\\jetpackcharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\x64\\jetpackeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jetpack\\definitions.jetpack.h",
+            "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\source\\jetpack\\jetpackcharacter.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\unrealeditor\\inc\\jetpack\\uht\\jetpackcharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -11,6 +11,7 @@
     <None Include="..\..\Source\JetPackEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -52,6 +53,54 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\JetPack\JetPackGameMode.h">
       <Filter>Source\JetPack</Filter>
+    </ClInclude>
+    <Filter Include="Source\JetPack\Private">
+      <UniqueIdentifier>{AAA985D8-2DF2-3E46-AFC6-470F40AE68C5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\JetPack\Private\BaseLevel.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\JetPack\Private\LevelSpawner.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\JetPack\Private\MySpikes.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\JetPack\Private\Obstacle.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\JetPack\Private\RunnerCharacter.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\JetPack\Private\Spikes.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\JetPack\Private\WallSpikes.cpp">
+      <Filter>Source\JetPack\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\JetPack\Public">
+      <UniqueIdentifier>{A4753C99-9F45-38EF-9D1C-FF8C4EB967EE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\JetPack\Public\BaseLevel.h">
+      <Filter>Source\JetPack\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\JetPack\Public\LevelSpawner.h">
+      <Filter>Source\JetPack\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\JetPack\Public\MySpikes.h">
+      <Filter>Source\JetPack\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\JetPack\Public\Obstacle.h">
+      <Filter>Source\JetPack\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\JetPack\Public\RunnerCharacter.h">
+      <Filter>Source\JetPack\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\JetPack\Public\Spikes.h">
+      <Filter>Source\JetPack\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\JetPack\Public\WallSpikes.h">
+      <Filter>Source\JetPack\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

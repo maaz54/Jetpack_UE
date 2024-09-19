@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/Maps/Gameplay.umap",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Character/BP_RunnerCharacter.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/GameMode/Bp_JetPackGameMode.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Obstacles/BP_Obstacle.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Obstacles/BP_Spikes.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_Level1.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_Level2.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_Level3.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_level4.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_level6.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_level5.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_Level7.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/LevelSpawner/BP_LevelSPawner.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Obstacles/BP_WallSpike.uasset"
 			]
 		}
 	]

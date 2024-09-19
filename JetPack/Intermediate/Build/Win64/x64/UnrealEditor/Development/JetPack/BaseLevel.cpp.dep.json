@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\source\\jetpack\\private\\baselevel.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\x64\\jetpackeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jetpack\\definitions.jetpack.h",
+            "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\source\\jetpack\\public\\baselevel.h",
+            "e:\\workspace\\unrealprojects\\liquidx-test\\jetpack_ue\\jetpack\\intermediate\\build\\win64\\unrealeditor\\inc\\jetpack\\uht\\baselevel.generated.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "e:\\unrealengine\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
