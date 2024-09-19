@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\WorkSpace\\UnrealProjects\\LiquidX-Test\\Jetpack_UE\\JetPack\\Source\\JetPack\\JetPack.Build.cs",
+		"E:\\WorkSpace\\UnrealProjects\\LiquidX-Test\\Jetpack_UE\\JetPack\\Source\\JetPack.Target.cs",
+		"E:\\WorkSpace\\UnrealProjects\\LiquidX-Test\\Jetpack_UE\\JetPack\\Source\\JetPackEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}

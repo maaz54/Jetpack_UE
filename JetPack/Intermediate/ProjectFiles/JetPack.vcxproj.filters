@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JetPack.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JetPack.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JetPackEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JetPack">
+      <UniqueIdentifier>{72DF414E-00E4-3C10-AF76-88156AC28E6F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JetPack\JetPack.Build.cs">
+      <Filter>Source\JetPack</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\JetPack\JetPack.cpp">
+      <Filter>Source\JetPack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JetPack\JetPack.h">
+      <Filter>Source\JetPack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JetPack\JetPackCharacter.cpp">
+      <Filter>Source\JetPack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JetPack\JetPackCharacter.h">
+      <Filter>Source\JetPack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JetPack\JetPackGameMode.cpp">
+      <Filter>Source\JetPack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JetPack\JetPackGameMode.h">
+      <Filter>Source\JetPack</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

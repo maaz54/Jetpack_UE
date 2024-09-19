@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "JetPack",
+			"Path": "..\\Source\\JetPack.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "JetPackEditor",
+			"Path": "..\\Source\\JetPackEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
