@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JetPackModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d29e17d9fb49c66e55dedf8c813560ba6a4d3238")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e0dd310225e789f62be1004789850a3eb156b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("JetPackModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JetPackModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -274,10 +274,10 @@
     <ClCompile Include="..\..\Source\JetPack\Private\BaseLevel.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
-    <ClCompile Include="..\..\Source\JetPack\Private\LevelSpawner.cpp">
+    <ClCompile Include="..\..\Source\JetPack\Private\Door.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
-    <ClCompile Include="..\..\Source\JetPack\Private\MySpikes.cpp">
+    <ClCompile Include="..\..\Source\JetPack\Private\LevelSpawner.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\JetPack\Private\Obstacle.cpp">
@@ -293,8 +293,8 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\JetPack\Public\BaseLevel.h"/>
+    <ClInclude Include="..\..\Source\JetPack\Public\Door.h"/>
     <ClInclude Include="..\..\Source\JetPack\Public\LevelSpawner.h"/>
-    <ClInclude Include="..\..\Source\JetPack\Public\MySpikes.h"/>
     <ClInclude Include="..\..\Source\JetPack\Public\Obstacle.h"/>
     <ClInclude Include="..\..\Source\JetPack\Public\RunnerCharacter.h"/>
     <ClInclude Include="..\..\Source\JetPack\Public\Spikes.h"/>

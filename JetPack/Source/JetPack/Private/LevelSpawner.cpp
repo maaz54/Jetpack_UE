@@ -65,9 +65,13 @@ void ALevelSpawner::SpawnLevel(bool isFirst)
 	LevelList.Add(NewLevel);
 
 
-	if (LevelList.Num() >= 5)
+	if (LevelList.Num() >= 10)
 	{
+		ABaseLevel* firstlevel = LevelList[0];
+
 		LevelList.RemoveAt(0);
+
+		firstlevel->Destroy();
 	}
 
 }

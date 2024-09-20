@@ -8,6 +8,7 @@
 /NODEFAULTLIB
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\JetPackEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\BaseLevel.gen.cpp.obj"
+"E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\Door.gen.cpp.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\JetPack.init.gen.cpp.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\JetPackCharacter.gen.cpp.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\JetPackGameMode.gen.cpp.obj"
@@ -25,5 +26,6 @@
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\RunnerCharacter.cpp.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\Spikes.cpp.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\WallSpikes.cpp.obj"
+"E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\Door.cpp.obj"
 "E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\Default.rc2.res"
 /OUT:"E:\WorkSpace\UnrealProjects\LiquidX-Test\Jetpack_UE\JetPack\Intermediate\Build\Win64\x64\UnrealEditor\Development\JetPack\UnrealEditor-JetPack-5804.lib"

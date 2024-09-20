@@ -19,7 +19,9 @@
 				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_level5.uasset",
 				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Levels/BP_Level7.uasset",
 				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/LevelSpawner/BP_LevelSPawner.uasset",
-				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Obstacles/BP_WallSpike.uasset"
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Obstacles/BP_WallSpike.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Door/BP_Door.uasset",
+				"E:/WorkSpace/UnrealProjects/LiquidX-Test/Jetpack_UE/JetPack/Content/BluePrints/Door/NewBlueprint.uasset"
 			]
 		}
 	]
